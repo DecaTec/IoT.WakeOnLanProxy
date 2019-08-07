@@ -1,3 +1,5 @@
+**Archived, moved to Codeberg: https://codeberg.org/DecaTec/IoT.WakeOnLanProxy**
+
 # Project description
 
 This is a sample project about implementing a Wake On LAN proxy for Windows 10 IoT on a Raspberry Pi.
